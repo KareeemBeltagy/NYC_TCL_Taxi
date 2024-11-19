@@ -1,0 +1,4 @@
+range,Trips,per%
+Long trip >30 mile,728162,2.0
+Short trip <2 mile,10765738,29.0
+Medium trip 2-30 miles,25820786,69.0
