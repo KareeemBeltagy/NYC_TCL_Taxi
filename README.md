@@ -11,7 +11,7 @@ passenger behavior, and trip attributes. The project is designed to demonstrate 
 4. [Features and Insights](#features-and-insights)
 5. [Setup](#setup)
 6. [Usage](#usage)
-7. [Results](#results)
+
 
 ---
 
@@ -102,7 +102,7 @@ git clone [https://github.com/<your-repo>/NYC_Yellow_Taxi_Analysis.git](https://
 cd NYC_Yellow_Taxi_Analysis
 ```
 
-###Usage
+### Usage
 run yellow_trips script using spark submit:
 ```bash
 spark-submit --master yarn yellow_trips.py
