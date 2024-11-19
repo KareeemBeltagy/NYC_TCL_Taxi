@@ -100,8 +100,9 @@ Clone the repository:
 ```bash
 git clone [https://github.com/<your-repo>/NYC_Yellow_Taxi_Analysis.git](https://github.com/KareeemBeltagy/NYC_TCL_Taxi.git)
 cd NYC_Yellow_Taxi_Analysis
+```
 
-### Usage
+###Usage
 run yellow_trips script using spark submit:
 ```bash
 spark-submit --master yarn yellow_trips.py
