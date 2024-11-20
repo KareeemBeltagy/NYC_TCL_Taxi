@@ -32,6 +32,7 @@ The project utilizes PySpark to process and analyze NYC Yellow Taxi trip data. T
 
 1. **NYC Yellow Taxi Trip Data**: Monthly parquet files for 2022, sourced from [GitHub](https://github.com/KareeemBeltagy/NYC_TCL_Taxi).
 2. **Taxi Zone Lookup**: A CSV file mapping location IDs to zones and boroughs.
+3. Original data source [NYC_TCL](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 ---
 
