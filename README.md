@@ -103,6 +103,6 @@ cd NYC_Yellow_Taxi_Analysis
 ```
 
 ### Usage
-Run yellow_trips script using spark submit:
+Run yellow_trips script using spark submit(pass argument -d to download the data files):
 ```bash
 spark-submit --master yarn yellow_trips.py
